@@ -1,2 +1,2 @@
-# Slot-Machine-Project
-My attemps to build a MacOS Slot machine that then may get ported to iOS
+# iOS Slot Machine Sample App
+Tutorial Application Building a Slot Machine Game for iOS using Swift
